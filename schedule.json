@@ -1,0 +1,101 @@
+[
+  {
+    "id": "event_001",
+    "title": "Project Team Meeting",
+    "type": "meeting",
+    "date": "2026-08-17",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "description": "Weekly project discussion"
+  },
+  {
+    "id": "event_002",
+    "title": "Machine Learning Workshop",
+    "type": "workshop",
+    "date": "2026-08-18",
+    "start_time": "14:00",
+    "end_time": "16:00",
+    "description": "Hands-on machine learning workshop"
+  },
+  {
+    "id": "event_003",
+    "title": "DBMS Assignment",
+    "type": "task",
+    "date": "2026-08-19",
+    "start_time": "18:00",
+    "end_time": "19:00",
+    "description": "Complete DBMS assignment"
+  },
+  {
+    "id": "event_004",
+    "title": "Doctor Appointment",
+    "type": "appointment",
+    "date": "2026-08-20",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "description": "Regular appointment"
+  },
+  {
+    "id": "event_005",
+    "title": "Hackathon Planning",
+    "type": "meeting",
+    "date": "2026-08-21",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "description": "Discuss hackathon project"
+  },
+  {
+    "id": "event_006",
+    "title": "Python Practice",
+    "type": "task",
+    "date": "2026-08-22",
+    "start_time": "17:00",
+    "end_time": "18:00",
+    "description": "Practice Python programming"
+  },
+  {
+    "id": "event_007",
+    "title": "Project Review",
+    "type": "meeting",
+    "date": "2026-08-23",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "description": "Review project progress"
+  },
+  {
+    "id": "event_008",
+    "title": "AI Seminar",
+    "type": "workshop",
+    "date": "2026-08-24",
+    "start_time": "10:00",
+    "end_time": "12:00",
+    "description": "Artificial Intelligence seminar"
+  },
+  {
+    "id": "event_009",
+    "title": "Team Presentation",
+    "type": "meeting",
+    "date": "2026-08-25",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "description": "Project presentation"
+  },
+  {
+    "id": "event_010",
+    "title": "Resume Update",
+    "type": "task",
+    "date": "2026-08-26",
+    "start_time": "18:00",
+    "end_time": "19:00",
+    "description": "Update resume and LinkedIn profile"
+  },
+  {
+    "id": "event_011",
+    "title": "Demo Meeting",
+    "type": "meeting",
+    "date": "2026-08-27",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "description": "Demo for schedule assistant"
+  }
+]
